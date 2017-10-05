@@ -1,7 +1,7 @@
 { 
   "name": "Bot" 
-  "description": "Bot"
-  "version": "0.0.0"
+  "description": "Bot",
+  "version": "0.0.0",
   "main": "run.py",
   "scripts": {
    "start": "python run.py"

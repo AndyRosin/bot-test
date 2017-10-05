@@ -1,0 +1,12 @@
+{ 
+  "name": "Bot" 
+  "description": "Bot"
+  "version": "0.0.0"
+  "main": "run.py",
+  "scripts": {
+   "start": "python run.py"
+   },
+   "dependencies": {
+   "discord.py": 0.14.3
+   }
+}
